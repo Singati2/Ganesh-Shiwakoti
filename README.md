@@ -13,4 +13,10 @@
 2. Second item
 3. Third item
 
-(https://microscope_lab)
+[Click Here!](https://microscope_lab)
+
+
+```
+import numpy as np
+y = random.random()
+```
