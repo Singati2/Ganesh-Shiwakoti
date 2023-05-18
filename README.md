@@ -13,7 +13,7 @@
 2. Second item
 3. Third item
 
-[Click Here!](https://microscope_lab)
+[Click Here!](https://www.mpcrlab.com)
 
 
 ```
